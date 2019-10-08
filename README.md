@@ -10,8 +10,8 @@ To test this classifier we put to your disposal train and test datasets.
 These files are some simples of files available [here](http://www.cs.cornell.edu/people/pabo/movie-review-data/). We do not any preprocessing of train or test dataset.
 Our whole dataset sould be a file like this. 
 ```
---label--POS , These shoes are realy comfortabe. I love them.
---label__NEG , This perfum smells very bad like fake smelling flower scent. I don't like it at all.
+__label__POS , These shoes are realy comfortabe. I love them.
+__label__NEG , This perfum smells very bad like fake smelling flower scent. I don't like it at all.
 ```
 
 ## Installing and requirements
